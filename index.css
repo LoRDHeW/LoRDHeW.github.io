@@ -82,7 +82,7 @@ header a:hover{
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ),url("https://github.com/LoRDHeW/LoRDHeW.github.io/blob/36d9fb3c43fdffbae8e8619c6f72f66b14ebed37/Consulta2.jpg");
+    ),url("Consulta2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -138,7 +138,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("LoRDHeW/LoRDHeW.github.io/TCA.jpg");
+    ,url("TCA.jpg");
     
 }
 .carta:nth-child(2){
@@ -147,7 +147,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("imagenes/Depresion.jpg");
+    ,url("Depresion.jpg");
   
 }
 .carta:nth-child(3){
@@ -156,7 +156,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("LoRDHeW/LoRDHeW.github.io/Depresion.jpg");
+    ,url("Depresion.jpg");
    
 }
 .carta:last-child{
@@ -165,7 +165,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("https://raw.githubusercontent.com/LoRDHeW/LoRDHeW.github.io/main/Adicciones.jpg");
+    ,url("Adicciones.jpg");
     
 }
 #Tratamientos .tratados{
@@ -255,7 +255,7 @@ footer .container{
     }
 
     #Consulta .img-container{
-        background-image: url("https://github.com/LoRDHeW/LoRDHeW.github.io/blob/36d9fb3c43fdffbae8e8619c6f72f66b14ebed37/Consulta2.jpg");
+        background-image: url("Consulta2.jpg");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -296,7 +296,7 @@ footer .container{
             rgba(0, 0, 0, 0.30),
             rgba(0, 0, 0, 0.30)
         ),
-        url("LoRDHeW/LoRDHeW.github.io/Consulta2.jpg");
+        url("TCA.jpg");
 
     }
 
@@ -305,7 +305,7 @@ footer .container{
             0deg,
             rgba(0,0,0,0.30),
             rgba(0,0,0,0.30)
-        ),url("LoRDHeW/LoRDHeW.github.io/Depresion.jpg");
+        ),url("Depresion.jpg");
     }
 
     .carta:nth-child(3){
@@ -315,7 +315,7 @@ footer .container{
             rgba(0,0,0,0.30)
         ),
         
-        url("LoRDHeW/LoRDHeW.github.io/Ansiedad.jpg");
+        url("Ansiedad.jpg");
 
     }
     .carta:last-child{
@@ -323,7 +323,7 @@ footer .container{
             0deg,
             rgba(0,0,0,0.30),
             rgba(0,0,0,0.30)
-        ),url("https://raw.githubusercontent.com/LoRDHeW/LoRDHeW.github.io/main/Adicciones.jpg");
+        ),url("Adicciones.jpg");
 
     }
 
